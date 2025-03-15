@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Define toolkit paths
-GITUSER="iamromulan"
+GITUSER="RouteTable"
 GITTREE="main"
 TMP_DIR="/tmp"
 USRDATA_DIR="/usrdata"
